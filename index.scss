@@ -1,0 +1,461 @@
+.h1{
+    font-family: poppins;
+}
+.p{
+    font-family: poppins;
+}
+.box{
+    background-color: rgb(238, 251, 250);
+    .cantiner{
+        width: 1300px;
+        margin: 0 auto;
+        height: 4700px;
+        .navbar{
+            menu{
+                ul{
+                    li{
+                        a{
+                            color: black;
+                            font-size: 21px;
+                        }
+                        a:hover{
+                            color: aqua;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+.box2{
+    margin-top: 80px;
+    .left{
+        margin-top: 30px;
+      p{
+        font-family: poppinos;
+        color: rgba(0, 0, 0, 0.74);
+        font-size: 22px;
+        margin-top: 34px;
+      } 
+      .button a:hover{
+        color: rgb(191, 248, 248);
+      }
+      .button{
+        a{
+            color: rgb(1, 207, 201);
+            font-size: 22px;
+            background-color: rgb(15, 38, 80);
+            border-radius: 10px;
+        }
+      }
+    }
+    .right{
+        position: relative;
+        .arqa{
+            margin-top: -19px;
+            border-radius: 100px;
+            width: 600px;
+            height: 560px;
+            background-color: rgb(1, 207, 201);
+        }
+        img{
+            border-radius: 20%;
+            position: absolute;
+            top: -95px;
+        }
+    }
+}
+.box3{
+    width: 450px;
+    height: 70px;
+    margin-top: 40px;
+    .left1{
+        img{
+            background-color: rgb(15, 38, 80);
+            border-radius: 10px;
+        }
+    }
+    .right1{
+        img{
+            background-color: rgb(15, 38, 80);
+            border-radius: 10px;
+        }
+    }
+}
+.box4{
+    text-align: center;
+    margin-top: 150px;
+    h2{
+        color: rgb(1, 207, 201);
+        font-size: 24px;
+        font-family: poppins;
+        font-weight: 600;
+    }
+    h1{
+        color: rgb(15, 38, 80);
+        font-size: 48px;
+        font-family: poppins;
+        margin-top: 17px;
+        font-weight: 610;
+    }
+    .box5{
+        width: 1280px;
+        margin-top: 50px;
+        .qutichalr{
+            width: 280px;
+            height: 280px;
+            border-radius: 20%;
+            background-color: rgb(255, 255, 255);
+        }
+        .qutichalar:hover{
+            box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+        }
+        .qutichalr:hover{
+            box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+        }
+        .qutichalar{
+            width: 280px;
+            height: 280px;
+            border-radius: 20%;
+            background-color: rgba(15, 38, 80, 0.81);
+            h2{
+                color: rgb(1, 207, 201);
+                font-size: 24px;
+                font-size: poppins;
+                margin-top: 23px;
+                margin-bottom: 17px;
+            }
+            img{
+                margin-top: 25px;
+            }
+            p{
+                font-size: 19px;
+                color: rgb(255, 255, 255);
+                font-family: poppins;
+            }
+        }
+    }
+    .qutichalr{
+        h2{
+            color: rgb(15, 38, 80);
+            font-size: 24px;
+            font-size: poppins;
+            margin-top: 23px;
+            margin-bottom: 17px;
+        }
+        p{
+            font-size: 19px;
+            color: rgba(0, 0, 0, 0.74);
+            font-family: poppins;
+        }
+        img{
+            margin-top: 25px;
+        }
+    }
+    .buton2{
+        margin-top: 40px;
+        a{
+            color: rgb(1, 207, 201);
+            font-size: 23px;
+            background-color: rgb(15, 38, 80);
+            border-radius: 10px;
+        }
+    }
+}
+.box6{
+    width: 1300px;
+    margin-top: 150px;
+    .left5{
+        h3{
+            font-size: 24px;
+            color: rgb(1, 207, 201);
+        }
+        h1{
+            color: rgb(15, 38, 80);
+            font-size: 48px;
+        }
+        p{
+            color: rgba(0, 0, 0, 0.74);
+            font-size: 20px;
+        }
+    }
+    .box7{
+        margin-top: 45px;
+        .right6{
+            margin-left: 30px;
+            h2{
+                color: rgb(15, 38, 80);
+                font-size: 22px;
+            }
+            p{
+                font-size: 16px;
+                color: rgba(0, 0, 0, 0.74);
+            }
+        }
+    }
+     .right5{
+        position: relative;
+        .arqasi{
+         width: 395px;
+         height: 400px;
+         background-color: rgb(1, 207, 201);
+         border-radius: 20%;
+         margin-top: 130px;
+        }
+        img{
+            margin-top: -100px;
+            position: absolute;
+            left: -220px;
+            top: -7px;
+        }
+    }
+}
+.box8{
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 130px;
+    .quti:hover{
+        box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    }
+    .quti{
+        width: 193px;
+        height: 99px;
+        border: solid rgb(1, 207, 201) 1px;
+        border-radius: 11px;
+        text-align: center;
+        h2{
+            color: rgb(15, 38, 80);
+            font-size: 40px;
+            margin-top: 15px;
+        }
+        p{
+            margin-top: -10px;
+            font-size: 16px;
+            color: rgba(0, 0, 0, 0.74);
+        }
+    }
+}
+.box9{
+    margin-top: 150px;
+    text-align: center;
+    h2{
+        color: rgb(1, 207, 201);
+        font-size: 24px;
+    }
+    p{
+        color: rgb(15, 38, 80);
+        font-size: 48px;
+        font-weight: 605;
+    }
+    .box10{
+        margin-top: 110px;
+    }
+    .quti3{
+        background-color: rgb(15, 38, 80);
+        width: 291px;
+        height: 201px;
+        border-radius: 40px;
+        position: relative;
+        h2{
+            margin-top: 90px;
+            color: rgb(1, 207, 201);
+            font-size: 22px;
+        }
+        p{
+            font-size: 22px;
+            color: rgb(255, 255, 255);
+            font-weight: 500;
+        }
+        .orqa{
+            width: 100px;
+            height: 110px;
+            border-radius: 20px;
+            background-color: rgb(194, 247, 245);
+            position: relative;
+            position: absolute;
+            top: -58px;
+            left: 98px;
+        }
+        img{
+            position: absolute;
+            top: -59px;
+            left: 86px;
+        }
+    }
+    .quti2{
+        background-color: rgb(255, 255, 255);
+        width: 291px;
+        height: 201px;
+        border-radius: 40px;
+        position: relative;
+        h2{
+            color: rgb(15, 38, 80);
+            font-size: 22px;
+            margin-top: 90px;
+        }
+        p{
+            color: rgba(0, 0, 0, 0.74);
+            font-size: 22px;
+        }
+        .orqa{
+            width: 100px;
+            height: 110px;
+            border-radius: 20px;
+            background-color: rgb(194, 247, 245);
+            position: relative;
+            position: absolute;
+            top: -58px;
+            left: 98px;
+        }
+        img{
+            position: absolute;
+            top: -59px;
+            left: 86px;
+        }
+    }
+   
+}
+.box11{
+    margin-top: 150px;
+    h3{
+        text-align: center;
+        color: rgb(1, 207, 201);
+        font-size: 24px;
+    }
+    h1{
+        font-size: 24px;
+        color: rgb(15, 38, 80);
+        font-family: poppins;
+        margin-left: 60px;
+        margin-top: 25px;
+        font-weight: 630;
+    }
+    p{
+        font-size: 48px;
+        color: rgb(15, 38, 80);
+        font-weight: 605;
+        text-align: center;
+    }
+    .quti4{
+        margin-top: 40px;
+        margin-left: 35px;
+        width: 1227px;
+        height: 171px;
+        border: solid rgb(1, 207, 201) 1px;
+        border-radius: 25px;
+        background-color: rgb(255, 255, 255);
+        h2{
+            color: rgb(15, 38, 80);
+            font-size: 24px;
+            margin-left: 60px;
+            margin-top: 30px;
+            margin-bottom: 10px;
+            font-weight: 630;
+        }
+        h4{
+            color: rgba(0, 0, 0, 0.74);
+            font-size: 18px;
+            margin-left: 60px;
+            font-weight: 600;
+        }
+    }
+    .quti3:hover{
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    }
+    .quti4:hover{
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    }
+    .quti3{
+        margin-left: 35px;
+        width: 1227px;
+        height: 87px;
+        border: solid rgb(1, 207, 201) 1px;
+        border-radius: 25px;
+        background-color: rgb(255, 255, 255);
+    }
+}
+.box12{
+    margin-top: 150px;
+    h2{
+        color: rgb(1, 207, 201);
+        font-size: 24px;
+        text-align: center;
+        margin-bottom: 5px;
+    }
+    p{
+        font-size: 48px;
+        color: rgb(15, 38, 80);
+        text-align: center;
+    }
+    .quti5:hover{
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    }
+    .quti5{
+        width: 385px;
+        height: 212px;
+        background-color: rgb(255, 255, 255);
+        border: solid rgb(1, 207, 201) 1px;
+        border-radius: 25px;
+        margin-top: 20px;
+        text-align: center;
+        h3{
+            color: rgb(15, 38, 80);
+            font-size: 22px;
+        }
+        h5{
+            color: rgba(0, 0, 0, 0.78);
+            font-size: 15px;
+        }
+    }
+    .uyi{
+        margin-right: 10px;
+    }
+}
+.box15{
+    height: 494px;
+    background-color: rgba(1, 207, 201, 0.2);
+    .dantiner{
+        width: 1300px;
+        margin: 0 auto; 
+        position: relative;
+        .quti6{
+            margin-top: 250px;
+            width: 350px;
+            margin-left: 55px;
+           
+            p{
+                color: rgba(0, 0, 0, 0.74);
+                font-size: 18px;
+            }
+            h2{
+                color: rgb(15, 38, 80);
+                font-size: 24px;
+                font-weight: 600;
+            }
+        }
+        .box17{
+            width: 1010px;
+            height: 252px; 
+            background-color: rgb(15, 38, 80);
+            border-radius: 30px;
+            position: absolute;
+            margin: 0 auto;
+            top: -130px;
+            .box18{
+                background-color: rgb(255, 255, 255);
+                width: 706px;
+                height: 90px;
+                border-radius: 12px;
+                margin: 0 auto;
+                .chap{
+                    input{ 
+                     color: rgba(0, 0, 0, 0.74);
+                        font-size: 22px;
+                        outline: none;
+                    }
+                }
+            }
+        }
+       
+    }
+}
